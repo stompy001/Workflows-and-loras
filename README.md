@@ -38,7 +38,7 @@ Due to file size limits on GitHub, all heavy model weights (`.safetensors`) are 
 </table>
 
 ---
-
+## Model download- https://huggingface.co/stomp001/free-character-models/tree/main
 ## 💡 Model & Checkpoint Recommendations
 
 * **Trigger Words:** Set your trigger word to the **exact model filename** (e.g., if the file is `character_name.safetensors`, use `character_name` in your prompt).
